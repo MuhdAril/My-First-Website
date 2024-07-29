@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+/*
+   CA2 SP Environmental Sustainability CSS 
+   Author: Muhammad Aril Bin Mohamed Iwan
+   Date:   23 July 2023
+   
+   Filename: sp_env_sustain.css
+
+*/
+
+/* Background Image */
+body {
+    background: url(../Images/wood_bg.jpg) center/100% repeat fixed;
+} /* Photo adapted fomr https://www.freepik.com/free-photo/pine-wood-texture_1033803.htm#query=white%20wood&position=1&from_view=keyword&track=ais */
+
+/*_PAGE & TEXT: COLOUR & FONTS_*/
+
+div#logo {
+    color: rgb(0, 255, 0);
+}
+
+article#content_2 img {
+    border-radius: 29%;
+}

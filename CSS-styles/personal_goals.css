@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+/*
+   CA2 Personal Goals CSS 
+   Author: Muhammad Aril Bin Mohamed Iwan
+   Date:   23 July 2023
+   
+   Filename: personal_goals.css
+
+*/
+
+/* Background Image */
+body {
+    background: url(../Images/env.jpg) center/100% repeat fixed;
+    backdrop-filter: blur(3px);
+} /* Adapted from https://www.wallpaperflare.com/painting-of-river-in-forest-waterfalls-painting-landscape-nature-wallpaper-mnu/download/3840x2160 */
+
+/*_PAGE & TEXT: COLOUR & FONTS_*/
+
+div#logo {
+    color: rgb(0, 255, 0);
+}
+
+article#topBody {
+    background: linear-gradient(90deg, orange, rgb(0, 255, 0), orange);
+}

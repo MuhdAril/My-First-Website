@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+/*
+   CA2 Index CSS 
+   Author: Muhammad Aril Bin Mohamed Iwan
+   Date:   23 July 2023
+   
+   Filename: index.css
+
+*/
+
+/* Background Image */
+body {
+    background: url(../Images/space.jpg) center/100% repeat fixed;
+} /* Adapted from https://wallpapers.com/ */
+
+/*_PAGE & TEXT: COLOUR & FONTS_*/
+
+div#logo {
+    color: rgb(0, 255, 0);
+}
